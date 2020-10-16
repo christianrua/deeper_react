@@ -1,0 +1,4 @@
+2020.09.16 06:29:40 INFO  started: Metals version 0.9.3 in workspace '/home/chr1st14n_ru4/development/react_course' for client vscode.
+2020.09.16 06:29:41 INFO  time: initialize in 1.14s
+2020.09.16 06:29:42 WARN  no build tool detected in workspace '/home/chr1st14n_ru4/development/react_course'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 19:53:43 INFO  shutting down Metals
