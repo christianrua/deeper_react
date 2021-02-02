@@ -7,3 +7,14 @@
 2020.11.18 07:03:47 WARN  Build server is not auto-connectable.
 2020.11.18 07:03:47 WARN  no build tool detected in workspace '/home/chr1st14n_ru4/development/react_course'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2020.11.18 19:51:11 INFO  shutting down Metals
+[0m2021.01.28 12:26:01 INFO  Started: Metals version 0.9.10 in workspace '/home/chr1st14n_ru4/development/react_course' for client vscode 1.46.0.[0m
+[0m2021.01.28 12:26:02 INFO  time: initialize in 0.49s[0m
+[0m2021.01.28 12:26:03 WARN  resetting database: /home/chr1st14n_ru4/development/react_course/.metals/metals.h2.db[0m
+[0m2021.01.28 12:26:03 WARN  Build server is not auto-connectable.[0m
+[0m2021.01.28 12:26:03 WARN  no build tool detected in workspace '/home/chr1st14n_ru4/development/react_course'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.01.28 19:51:16 INFO  shutting down Metals[0m
+[0m2021.01.31 18:59:03 INFO  Started: Metals version 0.9.10 in workspace '/home/chr1st14n_ru4/development/react_course' for client vscode 1.46.0.[0m
+[0m2021.01.31 18:59:03 INFO  time: initialize in 0.55s[0m
+[0m2021.01.31 18:59:04 WARN  Build server is not auto-connectable.[0m
+[0m2021.01.31 18:59:04 WARN  no build tool detected in workspace '/home/chr1st14n_ru4/development/react_course'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.01 19:24:32 INFO  shutting down Metals[0m
