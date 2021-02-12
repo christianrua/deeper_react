@@ -18,3 +18,23 @@
 [0m2021.01.31 18:59:04 WARN  Build server is not auto-connectable.[0m
 [0m2021.01.31 18:59:04 WARN  no build tool detected in workspace '/home/chr1st14n_ru4/development/react_course'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 [0m2021.02.01 19:24:32 INFO  shutting down Metals[0m
+[0m2021.02.06 07:58:51 INFO  Started: Metals version 0.9.10 in workspace '/home/chr1st14n_ru4/development/react_course' for client vscode 1.46.0.[0m
+[0m2021.02.06 07:58:52 INFO  time: initialize in 1.05s[0m
+[0m2021.02.06 07:58:54 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.06 07:58:54 WARN  no build tool detected in workspace '/home/chr1st14n_ru4/development/react_course'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.06 09:18:21 INFO  shutting down Metals[0m
+[0m2021.02.08 06:18:58 INFO  Started: Metals version 0.9.10 in workspace '/home/chr1st14n_ru4/development/react_course' for client vscode 1.46.0.[0m
+[0m2021.02.08 06:18:59 INFO  time: initialize in 0.76s[0m
+[0m2021.02.08 06:19:01 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.08 06:19:01 WARN  no build tool detected in workspace '/home/chr1st14n_ru4/development/react_course'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.08 17:45:20 INFO  shutting down Metals[0m
+[0m2021.02.09 06:19:02 INFO  Started: Metals version 0.9.10 in workspace '/home/chr1st14n_ru4/development/react_course' for client vscode 1.46.0.[0m
+[0m2021.02.09 06:19:02 INFO  time: initialize in 0.72s[0m
+[0m2021.02.09 06:19:05 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.09 06:19:05 WARN  no build tool detected in workspace '/home/chr1st14n_ru4/development/react_course'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.09 18:30:20 INFO  shutting down Metals[0m
+[0m2021.02.10 06:21:48 INFO  Started: Metals version 0.9.10 in workspace '/home/chr1st14n_ru4/development/react_course' for client vscode 1.46.0.[0m
+[0m2021.02.10 06:21:48 INFO  time: initialize in 0.69s[0m
+[0m2021.02.10 06:21:51 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.10 06:21:51 WARN  no build tool detected in workspace '/home/chr1st14n_ru4/development/react_course'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.10 18:11:30 INFO  shutting down Metals[0m
